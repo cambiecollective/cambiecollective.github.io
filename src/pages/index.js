@@ -66,7 +66,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style1 fa-code"></span>
                 <h3><Link>NodeSchoolYVR</Link></h3>
-                <p>in-person hosted workshops, usually free, in which workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
+                <p>free self-directed in-person hosted workshops in which command-line workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
