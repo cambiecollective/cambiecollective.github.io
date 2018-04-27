@@ -27,7 +27,7 @@ class SponsorAndSupport extends React.Component {
             <h4>What you get:</h4>
             <ul>
               <li>A personalized mention by our emcee at each event.</li>
-              <li>Two minutes to speak at the start of the event. One of your employees or developer relations person should speak — no recruiters! You may prepare something for us to read. You may include job opportunities during your two minutes, but please don’t recruit audience members during socialization time.</li>
+              <li>(optional) Two minutes to speak at the start of the event. One of your employees or developer relations person should speak — no recruiters! You may prepare something for us to read. You may include job opportunities during your two minutes, but please don’t recruit audience members during socialization time.</li>
               <li>A space at the event to give out knickknacks and info.</li>
             </ul>
             <ul>Your logo and our thanks in three emails:
