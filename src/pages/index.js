@@ -78,6 +78,11 @@ class Index extends React.Component {
                 <h3>Your next meetup</h3>
                 <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
               </li>
+              <li>
+                <span className="icon major style2 fa-arrow-right"></span>
+                <h3><Link>VanFP</Link></h3>
+                <p>a broad functional programming gathering space for people of all levels and functional langauges</p>
+              </li>
             </ul>
             <footer className="major">
               <ul className="actions">
