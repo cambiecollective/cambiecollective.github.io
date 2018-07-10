@@ -65,22 +65,22 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3><Link>NodeSchoolYVR</Link></h3>
+                <h3><Link to='https://nodeschool.io/vancouver/'>NodeSchoolYVR</Link></h3>
                 <p>free self-directed in-person hosted workshops in which command-line workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3><Link>Code & Coffee YVR</Link></h3>
+                <h3><Link to='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</Link></h3>
                 <p>sit down and code to your heart's content on whatever project you bring! also a community stage</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3>Your next meetup</h3>
-                <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+                <h3><Link to='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</Link></h3>
+                <p>PyLadies Vancouver is a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
               </li>
               <li>
                 <span className="icon major style2 fa-arrow-right"></span>
-                <h3><Link>VanFP</Link></h3>
+                <h3><Link to='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</Link></h3>
                 <p>a broad functional programming gathering space for people of all levels and functional langauges</p>
               </li>
             </ul>
