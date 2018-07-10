@@ -51,7 +51,7 @@ class Index extends React.Component {
                 adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
                 Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">Learn More</Link></li>
+                  <li><Link to="/" className="button">Learn More</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={logo} alt="" /></span>
@@ -86,7 +86,7 @@ class Index extends React.Component {
             </ul>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button">more partners</Link></li>
+                <li><Link to="/" className="button">more partners</Link></li>
               </ul>
             </footer>
           </section>
@@ -122,7 +122,7 @@ class Index extends React.Component {
             <p className="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button">Learn More</Link></li>
+                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
@@ -134,8 +134,8 @@ class Index extends React.Component {
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button special">Code of Conduct</Link></li>
-                <li><Link to="/generic" className="button">Learn More</Link></li>
+                <li><Link to="/" className="button special">Code of Conduct</Link></li>
+                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
