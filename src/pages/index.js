@@ -76,7 +76,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style5 fa-diamond"></span>
                 <h3><Link to='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</Link></h3>
-                <p>PyLadies Vancouver is a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
+                <p>a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
               </li>
               <li>
                 <span className="icon major style2 fa-arrow-right"></span>
@@ -130,7 +130,7 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>The Unified Charter</h2>
-              <p>We work to get meetups off the ground and support them through their day to day operations. Need a Code of Conduct? Need sponsorship support? Use our Unified Charter.</p>
+              <p>We work to support meetups in their day to day operations and get new ones off the ground! 🚀</p>
             </header>
             <footer className="major">
               <ul className="actions">
