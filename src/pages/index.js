@@ -71,7 +71,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style3 fa-copy"></span>
                 <h3><Link to='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</Link></h3>
-                <p>sit down and code to your heart's content on whatever project you bring! also a community stage</p>
+                <p>sit down and code to your heart's content on whatever project you bring! Also a community stage for mostly new, sometimes experienced speakers.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
@@ -81,7 +81,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style2 fa-arrow-right"></span>
                 <h3><Link to='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</Link></h3>
-                <p>a broad functional programming gathering space for people of all levels and functional langauges</p>
+                <p>a broad functional programming gathering space for people of all levels and functional langauges.</p>
               </li>
             </ul>
             <footer className="major">
@@ -94,7 +94,7 @@ class Index extends React.Component {
           <section id="second" className="main special">
             <header className="major">
               <h2>our audience</h2>
-              <p>come for the talks<br />
+              <p>come for the talks,<br />
               stay for the people.</p>
             </header>
             <ul className="statistics">
@@ -113,7 +113,7 @@ class Index extends React.Component {
             </ul>
             <p className="content">Our audience is a diverse mix of interests. 
               With 7900 members and counting, our responsibility to create healthy 
-              communities continues to grow.</p>
+              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <Link to='https://twitter.com/gastowngang/following'>Tweet at or DM any of us</Link> to find out.</p>
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button">Learn More</Link></li>
