@@ -45,11 +45,10 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>what we do 💁🏽</h2>
+                  <h2>what we're doing 💁🏽</h2>
                 </header>
-                <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
-                adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
-                Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
+                <p>Supporting resilient, inclusive tech and maker 
+                  communities that empower positive change.</p>
                 <ul className="actions">
                   <li><Link to="/generic" className="button">Learn More</Link></li>
                 </ul>
