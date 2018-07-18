@@ -50,7 +50,7 @@ class Index extends React.Component {
                 <p>Supporting resilient, inclusive tech and maker 
                   communities that empower positive change.</p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">Learn More</Link></li>
+                  <li><Link to="/" className="button">Learn More</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={logo} alt="" /></span>
@@ -64,64 +64,58 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3><Link>NodeSchoolYVR</Link></h3>
+                <h3><Link to='https://nodeschool.io/vancouver/'>NodeSchoolYVR</Link></h3>
                 <p>free self-directed in-person hosted workshops in which command-line workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3><Link>Code & Coffee YVR</Link></h3>
-                <p>sit down and code to your heart's content on whatever project you bring! also a community stage</p>
+                <h3><Link to='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</Link></h3>
+                <p>sit down and code to your heart's content on whatever project you bring! Also a community stage for mostly new, sometimes experienced speakers.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3>Your next meetup</h3>
-                <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+                <h3><Link to='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</Link></h3>
+                <p>a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
               </li>
               <li>
                 <span className="icon major style2 fa-arrow-right"></span>
-                <h3><Link>VanFP</Link></h3>
-                <p>a broad functional programming gathering space for people of all levels and functional langauges</p>
+                <h3><Link to='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</Link></h3>
+                <p>a broad functional programming gathering space for people of all levels and functional langauges.</p>
               </li>
             </ul>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button">more partners</Link></li>
+                <li><Link to="/" className="button">more partners</Link></li>
               </ul>
             </footer>
           </section>
 
           <section id="second" className="main special">
             <header className="major">
-              <h2>Ipsum consequat</h2>
-              <p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-              posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+              <h2>our audience</h2>
+              <p>come for the talks,<br />
+              stay for the people.</p>
             </header>
             <ul className="statistics">
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
-              </li>
-              <li className="style2">
-                <span className="icon fa-folder-open-o"></span>
-                <strong>8,192</strong> Magna
+                <strong>4</strong> meetups
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>2,048</strong> Tempus
-              </li>
-              <li className="style4">
-                <span className="icon fa-laptop"></span>
-                <strong>4,096</strong> Aliquam
+                <strong>7,931</strong> members
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
-                <strong>1,024</strong> Nullam
+                <strong>1</strong> community
               </li>
             </ul>
-            <p className="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+            <p className="content">Our audience is a diverse mix of interests. 
+              With 7900 members and counting, our responsibility to create healthy 
+              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <Link to='https://twitter.com/gastowngang/following'>Tweet at or DM any of us</Link> to find out.</p>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button">Learn More</Link></li>
+                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
@@ -129,12 +123,12 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>The Unified Charter</h2>
-              <p>We work to get meetups off the ground and support them through their day to day operations. Need a Code of Conduct? Need sponsorship support? Use our Unified Charter.</p>
+              <p>We work to support meetups in their day to day operations and get new ones off the ground! 🚀</p>
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button special">Code of Conduct</Link></li>
-                <li><Link to="/generic" className="button">Learn More</Link></li>
+                <li><Link to="/" className="button special">Code of Conduct</Link></li>
+                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
