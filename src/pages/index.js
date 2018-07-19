@@ -64,22 +64,22 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3><Link to='https://nodeschool.io/vancouver/'>NodeSchoolYVR</Link></h3>
+                <h3><a href='https://nodeschool.io/vancouver/'>NodeSchoolYVR</a></h3>
                 <p>free self-directed in-person hosted workshops in which command-line workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3><Link to='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</Link></h3>
+                <h3><a href='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</a></h3>
                 <p>sit down and code to your heart's content on whatever project you bring! Also a community stage for mostly new, sometimes experienced speakers.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3><Link to='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</Link></h3>
+                <h3><a href='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</a></h3>
                 <p>a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
               </li>
               <li>
                 <span className="icon major style2 fa-arrow-right"></span>
-                <h3><Link to='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</Link></h3>
+                <h3><a href='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</a></h3>
                 <p>a broad functional programming gathering space for people of all levels and functional langauges.</p>
               </li>
             </ul>
@@ -112,7 +112,7 @@ class Index extends React.Component {
             </ul>
             <p className="content">Our audience is a diverse mix of interests. 
               With 7900 members and counting, our responsibility to create healthy 
-              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <Link to='https://twitter.com/gastowngang/following'>Tweet at or DM any of us</Link> to find out.</p>
+              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <a href='https://twitter.com/gastowngang/following'>Tweet at or DM any of us</a> to find out.</p>
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button">Learn More</Link></li>

@@ -7,7 +7,7 @@ const Header = (props) => (
     <header id="header" className="alt">
         {/* <span className="logo"><img src={logo} alt="" /></span> */}
         <h1>Gastown Gang 🏭</h1>
-        <p>unified event support for Vancouver+</p>
+        <p>a Vancouver-focused community and events team for the tech and maker community</p>
     </header>
 )
 
