@@ -6,7 +6,7 @@ import logo from '../assets/images/logo-rocket.svg';
 const Header = (props) => (
     <header id="header" className="alt">
         {/* <span className="logo"><img src={logo} alt="" /></span> */}
-        <h1>Gastown Gang 🏭</h1>
+        <h1>Cambie Collective 🏭</h1>
         <p>a Vancouver-focused community and events team for the tech and maker community</p>
     </header>
 )

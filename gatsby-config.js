@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gastown Gang - landing page",
+    title: "Cambie Collective - landing page",
     author: "Manil Chowdhury",
-    description: "the front-facing page for Gastown Gang"
+    description: "the front-facing page for Cambie Collective"
   },
   pathPrefix: '/',
   plugins: [
