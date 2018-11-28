@@ -1,0 +1,2 @@
+webpackJsonp([52547762336625],{402:function(t,e){t.exports={data:{site:{siteMetadata:{title:"the Cambie Collective"}}},pathContext:{}}}});
+//# sourceMappingURL=path---generic-caf188cb3eb7626bdbf2.js.map
