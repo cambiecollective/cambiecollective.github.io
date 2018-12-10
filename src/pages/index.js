@@ -50,7 +50,7 @@ class Index extends React.Component {
                 <p>Supporting resilient, inclusive tech and maker 
                   communities that empower positive change.</p>
                 <ul className="actions">
-                  <li><Link to="/" className="button">Learn More</Link></li>
+                  <li><Link to="/sponsors" className="button special">Sponsors</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={logo} alt="" /></span>
@@ -138,7 +138,6 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button special">Code of Conduct</Link></li>
-                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
