@@ -24,8 +24,15 @@ class Generic extends React.Component {
                 <h3><a href='https://elysiancoffee.com/'>Elysian Coffee Roasters</a></h3>
                 <p>
                   Elysian Coffee Roasters have hosted our smaller community meetups at their
-                  café since mid-2018.
+                  café.
                   Their crew is welcoming and their coffee is delicious ☕️
+                </p>
+              </li>
+              <li>
+                <h3><a href='https://7gate.vc'>7 Gate Ventures</a></h3>
+                <p>
+                  7 Gate Ventures have shared their spaces with several of our meetups.
+                  They focus on technology and the community powering it 💻
                 </p>
               </li>
             </ul>
