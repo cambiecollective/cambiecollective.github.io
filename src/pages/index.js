@@ -112,7 +112,7 @@ class Index extends React.Component {
             </ul>
             <p className="content">Our audience is a diverse mix of interests. 
               With 7900 members and counting, our responsibility to create healthy 
-              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <a href='https://twitter.com/cambiecollective/following'>Tweet at or DM any of us</a> to find out.</p>
+              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <a href='https://twitter.com/cambiecollectiv/following'>Tweet at or DM any of us</a> to find out.</p>
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button">Learn More</Link></li>
