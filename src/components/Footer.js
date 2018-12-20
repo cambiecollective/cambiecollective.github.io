@@ -13,7 +13,7 @@ const Footer = (props) => (
         <section>
             <h2>Find us on the internet</h2>
             <ul className="icons">
-                <li><a href="https://twitter.com/cambiecollective" className="icon fa-twitter alt"><span className="label">Twitter</span></a></li>
+                <li><a href="https://twitter.com/cambiecollectiv" className="icon fa-twitter alt"><span className="label">Twitter</span></a></li>
                 <li><a href="https://github.com/cambiecollective/cambiecollective.github.io" className="icon fa-github alt"><span className="label">GitHub</span></a></li>
             </ul>
         </section>
