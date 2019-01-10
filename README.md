@@ -4,8 +4,9 @@ Supporting resilient, inclusive tech and maker communities that empower positive
 
 ## Event groups we support
 
-- [NodeSchool YVR](https://nodeschool.io/vancouver/)
 - [Code & Coffee YVR](https://www.meetup.com/codecoffeeyvr/)
+- [NodeSchool YVR](https://nodeschool.io/vancouver/)
 - [PyLadies Vancouver](https://www.meetup.com/PyLadies-Vancouver/)
 - [VanFP](https://www.meetup.com/Vancouver-Functional-Programmers/)
 - [VanJS](https://www.meetup.com/vancouver-javascript-developers/)
+- [VanPy](https://www.meetup.com/vanpyz/)
