@@ -1,6 +1,6 @@
 # Cambie Collective
 
-Supporting resilient, inclusive tech and maker communities that empower positive change.
+Supporting resilient, inclusive tech and maker communities that empower positive change in Vancouver, Canada.
 
 ## Event groups we support
 
