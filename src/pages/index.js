@@ -59,7 +59,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>founding events</h2>
+              <h2>our events</h2>
             </header>
             <ul className="features">
               <li>
@@ -90,7 +90,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style3 fa-js-square"></span>
                 <h3><a href='https://www.meetup.com/vancouver-javascript-developers/'>VanJS</a></h3>
-                <p>a meetup for web developers downtown Vancouver focused on JavaScript, front-end technology, and the open web.</p>
+                <p>a meetup for web developers in downtown Vancouver, focused on JavaScript, front-end technology, and the open web.</p>
               </li>
             </ul>
             <footer className="major">
