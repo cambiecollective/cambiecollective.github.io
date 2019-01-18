@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{405:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gastown Gang - landing page"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e90fdfbe61626e40cb3d.js.map
