@@ -59,7 +59,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>founding events</h2>
+              <h2>our events</h2>
             </header>
             <ul className="features">
               <li>
@@ -82,6 +82,16 @@ class Index extends React.Component {
                 <h3><a href='https://www.meetup.com/Vancouver-Functional-Programmers/'>VanFP</a></h3>
                 <p>a broad functional programming gathering space for people of all levels and functional langauges.</p>
               </li>
+              <li>
+                <span className="icon major style4 fa-python"></span>
+                <h3><a href='https://www.meetup.com/vanpyz/'>VanPy</a></h3>
+                <p>we bring together Pythonistas from academic, web, science, data, visual effects and other backgrounds under one roof.</p>
+              </li>
+              <li>
+                <span className="icon major style3 fa-js-square"></span>
+                <h3><a href='https://www.meetup.com/vancouver-javascript-developers/'>VanJS</a></h3>
+                <p>a meetup for web developers in downtown Vancouver, focused on JavaScript, front-end technology, and the open web.</p>
+              </li>
             </ul>
             <footer className="major">
               <ul className="actions">
@@ -99,11 +109,11 @@ class Index extends React.Component {
             <ul className="statistics">
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
-                <strong>4</strong> meetups
+                <strong>6</strong> meetups
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>7,931</strong> members
+                <strong>12,000+</strong> members
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
@@ -111,8 +121,8 @@ class Index extends React.Component {
               </li>
             </ul>
             <p className="content">Our audience is a diverse mix of interests. 
-              With 7900 members and counting, our responsibility to create healthy 
-              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <a href='https://twitter.com/cambiecollectiv/following'>Tweet at or DM any of us</a> to find out.</p>
+              With 12000 members and counting, our responsibility to create healthy 
+              communities continues to grow. You're welcome to join us as an audience member, a sponsor, a venue partner, or even as a contributor. 🎉 What does that mean? <a href='https://twitter.com/gastowngang/following'>Tweet at or DM any of us</a> to find out.</p>
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button">Learn More</Link></li>
