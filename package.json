@@ -1,7 +1,7 @@
 {
   "name": "landing-page",
-  "description": "the front-facing page for Gastown Gang",
-  "version": "0.1.0",
+  "description": "the front-facing page for Cambie Collective",
+  "version": "0.1.1",
   "author": "Manil Chowdhury",
   "dependencies": {
     "gatsby": "^1.9.235",
@@ -21,7 +21,7 @@
     "react-scrollspy": "^3.3.5",
     "react-waypoint": "^8.0.1"
   },
-  "homepage": "https://gastowngang.github.io",
+  "homepage": "https://cambiecollective.github.io",
   "keywords": [
     "gatsby"
   ],
@@ -29,7 +29,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gastowngang/gastowngang.github.io.git"
+    "url": "https://github.com/cambiecollective/cambiecollective.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
