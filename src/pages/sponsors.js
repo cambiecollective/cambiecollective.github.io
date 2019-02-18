@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-class Generic extends React.Component {
+class SponsorsPage extends React.Component {
   render() {
 
     return (
@@ -66,7 +66,7 @@ class Generic extends React.Component {
   }
 }
 
-export default Generic
+export default SponsorsPage
 
 export const pageQuery = graphql`
   query SponsorsQuery {
