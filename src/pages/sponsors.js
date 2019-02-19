@@ -23,7 +23,7 @@ const SponsorsPage = (props) => {
                 offices in Downtown Vancouver.
                 Their crew is welcoming, 
                 their platform covers a lot of testing needs, 
-                and their sauce is covers low and high ends of the Scoville scale.
+                and their sauces cover the low and high ends of the Scoville scale.
               </p>
             </li> 
             <li>
