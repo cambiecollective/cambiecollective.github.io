@@ -12,6 +12,7 @@ const Footer = (props) => (
         </section>
         <section>
             <h2>Find us on the internet</h2>
+            <p>Best way to get in touch is to open an issue in Github. Or DM one of the people we follow on Twitter; they're organizers.</p>
             <ul className="icons">
                 <li><a href="https://twitter.com/cambiecollectiv" className="icon fa-twitter alt"><span className="label">Twitter</span></a></li>
                 <li><a href="https://github.com/cambiecollective/cambiecollective.github.io" className="icon fa-github alt"><span className="label">GitHub</span></a></li>

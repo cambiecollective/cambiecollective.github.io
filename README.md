@@ -10,3 +10,4 @@ Supporting resilient, inclusive tech and maker communities that empower positive
 - [VanFP](https://www.meetup.com/Vancouver-Functional-Programmers/)
 - [VanJS](https://www.meetup.com/vancouver-javascript-developers/)
 - [VanPy](https://www.meetup.com/vanpyz/)
+- Vancouver Tech Speakers (incubating)

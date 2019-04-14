@@ -7,6 +7,7 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import logo from '../assets/images/logo.png'
+import nodeschoolLogo from '../assets/images/nodeschool.jpg'
 
 class Index extends React.Component {
   constructor(props) {
@@ -50,7 +51,7 @@ class Index extends React.Component {
                 <p>Supporting resilient, inclusive tech and maker 
                   communities that empower positive change.</p>
                 <ul className="actions">
-                  <li><Link to="/" className="button">Learn More</Link></li>
+                  <li><Link to="/sponsors" className="button special">Sponsors</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={logo} alt="" /></span>
@@ -63,17 +64,17 @@ class Index extends React.Component {
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
+                <span className="icon major style1 fa-arrow-down"></span>
                 <h3><a href='https://nodeschool.io/vancouver/'>NodeSchoolYVR</a></h3>
                 <p>free self-directed in-person hosted workshops in which command-line workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
+                <span className="icon major style3 fa-arrow-right"></span>
                 <h3><a href='https://www.meetup.com/codecoffeeyvr/'>Code & Coffee YVR</a></h3>
                 <p>sit down and code to your heart's content on whatever project you bring! Also a community stage for mostly new, sometimes experienced speakers.</p>
               </li>
               <li>
-                <span className="icon major style5 fa-diamond"></span>
+                <span className="icon major style5 fa-arrow-up"></span>
                 <h3><a href='https://www.meetup.com/PyLadies-Vancouver/'>PyLadies Vancouver</a></h3>
                 <p>a Python programming group for women in the Vancouver area. We welcome people who have never programmed before, experienced programmers, and everyone in between.</p>
               </li>
@@ -83,19 +84,19 @@ class Index extends React.Component {
                 <p>a broad functional programming gathering space for people of all levels and functional langauges.</p>
               </li>
               <li>
-                <span className="icon major style4 fa-python"></span>
+                <span className="icon major style6 fa-arrow-left"></span>
                 <h3><a href='https://www.meetup.com/vanpyz/'>VanPy</a></h3>
                 <p>we bring together Pythonistas from academic, web, science, data, visual effects and other backgrounds under one roof.</p>
               </li>
               <li>
-                <span className="icon major style3 fa-js-square"></span>
+                <span className="icon major style3 fa-arrow-down"></span>
                 <h3><a href='https://www.meetup.com/vancouver-javascript-developers/'>VanJS</a></h3>
                 <p>a meetup for web developers in downtown Vancouver, focused on JavaScript, front-end technology, and the open web.</p>
               </li>
             </ul>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/" className="button">more partners</Link></li>
+                <li><Link to="/sponsors" className="button">also check out our sponsors</Link></li>
               </ul>
             </footer>
           </section>
@@ -138,7 +139,6 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li><Link to="/" className="button special">Code of Conduct</Link></li>
-                <li><Link to="/" className="button">Learn More</Link></li>
               </ul>
             </footer>
           </section>
