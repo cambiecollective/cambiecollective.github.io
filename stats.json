@@ -4,9 +4,13 @@
       "path---my-second-post-e9d8276e832ffddfda0a.js",
       "path---my-second-post-e9d8276e832ffddfda0a.js.map"
     ],
+    "path---sponsors": [
+      "path---sponsors-2947b63ae29e00bd05b7.js",
+      "path---sponsors-2947b63ae29e00bd05b7.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-ac1c2317d921d0a3b2ea.js",
-      "component---src-pages-index-js-ac1c2317d921d0a3b2ea.js.map"
+      "component---src-pages-index-js-46fb14ddfd9ee8af037e.js",
+      "component---src-pages-index-js-46fb14ddfd9ee8af037e.js.map"
     ],
     "path---generic": [
       "path---generic-2947b63ae29e00bd05b7.js",
@@ -17,12 +21,12 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-9d1eb36e66c47d932c30.js",
-      "component---src-templates-blog-post-js-9d1eb36e66c47d932c30.js.map"
+      "component---src-templates-blog-post-js-7fe71406c2e765c56166.js",
+      "component---src-templates-blog-post-js-7fe71406c2e765c56166.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-adf42ddf77386ece4969.js",
-      "component---src-layouts-index-js-adf42ddf77386ece4969.js.map"
+      "component---src-layouts-index-js-90d269f9a30d780ab990.js",
+      "component---src-layouts-index-js-90d269f9a30d780ab990.js.map"
     ],
     "path---hi-folks": [
       "path---hi-folks-759a5ffa6f510b99284f.js",
@@ -37,16 +41,20 @@
       "path---hello-world-019783dddb97b45ce4d8.js.map"
     ],
     "component---src-pages-generic-js": [
-      "component---src-pages-generic-js-8a8aa965afad109b2fba.js",
-      "component---src-pages-generic-js-8a8aa965afad109b2fba.js.map"
+      "component---src-pages-generic-js-bd8c3c65cd48f1676bf4.js",
+      "component---src-pages-generic-js-bd8c3c65cd48f1676bf4.js.map"
     ],
     "commons": [
-      "commons-4fe6baf1e3e16cf2c751.js",
-      "commons-4fe6baf1e3e16cf2c751.js.map"
+      "commons-d850d6a5b3ab6a5d487b.js",
+      "commons-d850d6a5b3ab6a5d487b.js.map"
+    ],
+    "component---src-pages-sponsors-js": [
+      "component---src-pages-sponsors-js-a9d638df9c694e0449bb.js",
+      "component---src-pages-sponsors-js-a9d638df9c694e0449bb.js.map"
     ],
     "app": [
-      "app-04bfb8efe7e1b5c46515.js",
-      "app-04bfb8efe7e1b5c46515.js.map"
+      "app-8a9ca2246ec5332de396.js",
+      "app-8a9ca2246ec5332de396.js.map"
     ]
   }
 }
