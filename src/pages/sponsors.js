@@ -21,9 +21,9 @@ const SponsorsPage = (props) => {
               <p>
                 Sauce Labs have hosted our NodeSchool meetups at their
                 offices in Downtown Vancouver.
-                Their crew is welcoming, 
-                their platform covers a lot of testing needs, 
-                and their sauces cover the low and high ends of the Scoville scale.
+                The folks are welcoming, 
+                they know a lot about testing,
+                and they're so helpful about learning!
               </p>
             </li> 
             <li>
@@ -31,9 +31,9 @@ const SponsorsPage = (props) => {
               <p>
                 Clio have hosted our NodeSchool meetups at their
                 offices in Burnaby.
-                Their crew is welcoming, 
-                their team is totally happy to talk about their engineering processes and culture, 
-                and they always have tons of fruit on hand.
+                Their crew is rad, 
+                their office is massive,
+                and they're totally happy to share their brilliant engineering culture!
               </p>
             </li>
             <li>
@@ -41,7 +41,7 @@ const SponsorsPage = (props) => {
               <p>
                 Elysian Coffee Roasters have hosted our smaller community meetups at their
                 café.
-                Their crew is welcoming, 
+                Their team is supportive, 
                 their space is perfect for learning, 
                 and their coffee is delicious.
               </p>
@@ -50,7 +50,7 @@ const SponsorsPage = (props) => {
               <h3><a href='https://7gate.vc'>💻 7 Gate Ventures</a></h3>
               <p>
                 7 Gate Ventures have shared their spaces with several of our meetups.
-                Their crew is welcoming, 
+                Their team is hospitable, 
                 they focus on technology, 
                 and the community driving it forward.
               </p>
