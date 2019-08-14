@@ -17,7 +17,7 @@ const SponsorsPage = (props) => {
         <section id="content" className="main">
           <ul className="features">
             <li>
-              <h3><a href='https://saucelabs.com/'>🔥 Sauce Labs</a></h3>
+              <h3><a href='https://saucelabs.com/'>Sauce Labs</a></h3>
               <p>
                 Sauce Labs have hosted our NodeSchool meetups at their
                 offices in Downtown Vancouver.
@@ -27,7 +27,7 @@ const SponsorsPage = (props) => {
               </p>
             </li> 
             <li>
-              <h3><a href='https://www.clio.com/'>️🍍 Clio</a></h3>
+              <h3><a href='https://www.clio.com/'>️Clio</a></h3>
               <p>
                 Clio have hosted our NodeSchool meetups at their
                 offices in Burnaby.
@@ -37,7 +37,7 @@ const SponsorsPage = (props) => {
               </p>
             </li>
             <li>
-              <h3><a href='https://elysiancoffee.com/'>☕️ Elysian Coffee Roasters</a></h3>
+              <h3><a href='https://elysiancoffee.com/'>Elysian Coffee Roasters</a></h3>
               <p>
                 Elysian Coffee Roasters have hosted our smaller community meetups at their
                 café.
@@ -47,12 +47,18 @@ const SponsorsPage = (props) => {
               </p>
             </li>
             <li>
-              <h3><a href='https://7gate.vc'>💻 7 Gate Ventures</a></h3>
+              <h3><a href='https://7gate.vc'>7 Gate Ventures</a></h3>
               <p>
                 7 Gate Ventures have shared their spaces with several of our meetups.
                 Their team is hospitable, 
                 they focus on technology, 
                 and the community driving it forward.
+              </p>
+            </li>
+            <li>
+              <h3><a href='mailto:main@cambiecollective.groups.io'>Become a sponsor 🎉</a></h3>
+              <p>
+                Sponsors get <Link to="/sponsor-and-support">perks</Link>! Click on the link above to open a new email or send an email to main@cambiecollective.groups.io and start the conversation.
               </p>
             </li>
           </ul>
