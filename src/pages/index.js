@@ -7,7 +7,6 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import logo from '../assets/images/logo.png'
-import nodeschoolLogo from '../assets/images/nodeschool.jpg'
 
 class Index extends React.Component {
   constructor(props) {
