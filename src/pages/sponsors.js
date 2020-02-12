@@ -17,7 +17,7 @@ const SponsorsPage = (props) => {
         <section id="content" className="main">
           <ul className="features">
             <li>
-              <h3><a href='https://saucelabs.com/'>🔥 Sauce Labs</a></h3>
+              <h3><a href='https://saucelabs.com/'>💻 Sauce Labs</a></h3>
               <p>
                 Sauce Labs have hosted our NodeSchool meetups at their
                 offices in Downtown Vancouver.
@@ -27,13 +27,22 @@ const SponsorsPage = (props) => {
               </p>
             </li> 
             <li>
-              <h3><a href='https://www.clio.com/'>️🍍 Clio</a></h3>
+              <h3><a href='https://www.clio.com/'>️💻 Clio</a></h3>
               <p>
                 Clio have hosted our NodeSchool meetups at their
                 offices in Burnaby.
                 Their crew is rad, 
                 their office is massive,
                 and they're totally happy to share their brilliant engineering culture!
+              </p>
+            </li>
+            <li>
+              <h3><a href='https://steamclock.com/'>💻 Steamclock Software</a></h3>
+              <p>
+                Steamclock Software are longtime drivers of the tech community in Vancouver.
+                They run and support VanJS.
+                They made the Cambie Collective logo.
+                They make great apps 💯
               </p>
             </li>
             <li>
