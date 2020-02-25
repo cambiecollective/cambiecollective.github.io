@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---my-second-post": [
-      "path---my-second-post-e9d8276e832ffddfda0a.js",
-      "path---my-second-post-e9d8276e832ffddfda0a.js.map"
+      "path---my-second-post-5dc6fdd30ae4c0491ad9.js",
+      "path---my-second-post-5dc6fdd30ae4c0491ad9.js.map"
     ],
     "path---sponsors": [
       "path---sponsors-2947b63ae29e00bd05b7.js",
       "path---sponsors-2947b63ae29e00bd05b7.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-46fb14ddfd9ee8af037e.js",
-      "component---src-pages-index-js-46fb14ddfd9ee8af037e.js.map"
+      "component---src-pages-index-js-b679b5965949ecb2b479.js",
+      "component---src-pages-index-js-b679b5965949ecb2b479.js.map"
     ],
     "path---generic": [
       "path---generic-2947b63ae29e00bd05b7.js",
@@ -25,36 +25,36 @@
       "component---src-templates-blog-post-js-7fe71406c2e765c56166.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-90d269f9a30d780ab990.js",
-      "component---src-layouts-index-js-90d269f9a30d780ab990.js.map"
+      "component---src-layouts-index-js-dcb0ec931b8ad03082ee.js",
+      "component---src-layouts-index-js-dcb0ec931b8ad03082ee.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-759a5ffa6f510b99284f.js",
-      "path---hi-folks-759a5ffa6f510b99284f.js.map"
+      "path---hi-folks-8fa575469f670e9366fa.js",
+      "path---hi-folks-8fa575469f670e9366fa.js.map"
     ],
     "path---index": [
       "path---index-2947b63ae29e00bd05b7.js",
       "path---index-2947b63ae29e00bd05b7.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-019783dddb97b45ce4d8.js",
-      "path---hello-world-019783dddb97b45ce4d8.js.map"
+      "path---hello-world-470ed15967b749318570.js",
+      "path---hello-world-470ed15967b749318570.js.map"
     ],
     "component---src-pages-generic-js": [
       "component---src-pages-generic-js-bd8c3c65cd48f1676bf4.js",
       "component---src-pages-generic-js-bd8c3c65cd48f1676bf4.js.map"
     ],
     "commons": [
-      "commons-d850d6a5b3ab6a5d487b.js",
-      "commons-d850d6a5b3ab6a5d487b.js.map"
+      "commons-9b9bf20431f9fb055402.js",
+      "commons-9b9bf20431f9fb055402.js.map"
     ],
     "component---src-pages-sponsors-js": [
-      "component---src-pages-sponsors-js-a9d638df9c694e0449bb.js",
-      "component---src-pages-sponsors-js-a9d638df9c694e0449bb.js.map"
+      "component---src-pages-sponsors-js-01082cab05d3d0992a3a.js",
+      "component---src-pages-sponsors-js-01082cab05d3d0992a3a.js.map"
     ],
     "app": [
-      "app-8a9ca2246ec5332de396.js",
-      "app-8a9ca2246ec5332de396.js.map"
+      "app-eb13ddf1d67f587f7032.js",
+      "app-eb13ddf1d67f587f7032.js.map"
     ]
   }
 }
