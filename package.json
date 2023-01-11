@@ -14,7 +14,7 @@
     "gatsby-remark-copy-linked-files": "^1.5.30",
     "gatsby-remark-images": "^1.5.56",
     "gatsby-source-filesystem": "^1.5.27",
-    "gatsby-transformer-remark": "^1.7.37",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.5",
     "react-scroll-to-element": "^0.2.0",
